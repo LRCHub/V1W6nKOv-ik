@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ikinokoru",
+  "base_artist": "RêRA",
+  "createdAt": "2026-02-28T13:59:07.911612Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ikinokoru",
+      "artist": "RêRA",
+      "has_synced": false,
+      "path": "select/pl_01_ikinokoru_RêRA.txt"
+    }
+  ]
+}
